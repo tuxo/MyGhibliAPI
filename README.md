@@ -1,5 +1,5 @@
 # MyGhibliAPI
-This API characters, films and species cointained in Studio Ghibli's universe. 
+This API consist of characters, films and species cointained in Studio Ghibli's universe. 
 
 ## How to use
 - Clone this repo 
